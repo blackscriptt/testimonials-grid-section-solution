@@ -1,0 +1,8 @@
+@import url('./global/fonts.css');
+@import url('./global/colors.css');
+@import url('./global/layout.css');
+@import url('./global/boilerplate.css');
+
+/*! components - [START] */
+@import url('./components/testimonial.css');
+/*! components - [END^] */
